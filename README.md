@@ -11,14 +11,12 @@ Controls (mostly default keybinds in the HyperSpeedCube program):
 - 'R' - Grip the back cell
 - 'E' - Grip the up cell
 - 'D' - Grip the whole puzzle.
-
 - 'I' - Rotate along the x-axis
 - 'K' - Rotate along the x'-axis
 - 'J' - Rotate along the y-axis
 - 'L' - Rotate along the y'-axis
 - 'O' - Rotate along the z-axis
 - 'U' - Rotate along the z'-axis
-
 - 'LCtrl + Z' - Undo the latest move
 
 Future Updates:
