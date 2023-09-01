@@ -4,13 +4,13 @@ PhysicalNxNxNx1 is a simulator of a 3D analogue of 4D NxNxNx1 (1<=N<=3) Rubik's 
 
 Controls (mostly default keybinds in the HyperSpeedCube program):
 
-'F' - Grip the right cell
-'C' - Grip the down cell
-'S' - Grip the front cell
-'W' - Grip the left cell
-'R' - Grip the back cell
-'E' - Grip the up cell
-'D' - Grip the whole puzzle
+'F' - Grip the right cell.
+'C' - Grip the down cell.
+'S' - Grip the front cell.
+'W' - Grip the left cell.
+'R' - Grip the back cell.
+'E' - Grip the up cell.
+'D' - Grip the whole puzzle.
 
 'I' - Rotate along the x-axis
 'K' - Rotate along the x'-axis
