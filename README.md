@@ -21,11 +21,10 @@ Controls (mostly default keybinds in the HyperSpeedCube program):
 
 Future Updates:
 
-- Fix bugs
 - Add an option to save and load log files and settings
-- Add 3x3x2x1 and 3x2x2x1 puzzles
 - Improve UI and animations
 - Add mouse controlls 
+- Add BLD mode
 
 ![Screenshot 2023-09-01 162334](https://github.com/TymonFro/PhisicalNxNxNx1Releases/assets/143343362/e168d816-3f8f-4bcc-811d-26c04729459c)
 ![Screenshot 2023-09-01 162257](https://github.com/TymonFro/PhisicalNxNxNx1Releases/assets/143343362/e2dfd559-f850-480b-a2dd-f6e54ec192eb)
