@@ -17,7 +17,7 @@ Controls (mostly default keybinds in the HyperSpeedCube program):
 - 'L' - Rotate along the y'-axis
 - 'O' - Rotate along the z-axis
 - 'U' - Rotate along the z'-axis
-- 'LCtrl + Z' - Undo the latest move
+- 'C' + Z' - Undo the latest move
 
 Future Updates:
 
